@@ -2,7 +2,7 @@
 **With some experience in:**
 
 - Frontend: `React`, `Redux`.
-- Backend: `Odoo`, `Flask`, `Node.js`.
+- Backend: `Node.js`.
 - DevOps: `Docker`, `Docker Compose`. 
 
 
