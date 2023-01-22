@@ -1,8 +1,7 @@
 # I am a software developer.
 **With some experience in:**
 
-- Frontend: `React`, `Redux`.
-- Backend: `Node.js`.
+- Backend: `Python`.
 - DevOps: `Docker`, `Docker Compose`. 
 
 
