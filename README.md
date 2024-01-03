@@ -1,7 +1,7 @@
 # I am a software developer.
 **With some experience in:**
 
-- Backend: Node Js.
+- Backend: Node Js, PHP, Python.
 - Bases de Datos: MySQL, Postgresql, MongoDB.
 - DevOps: Docker y Docker Compose.
 
